@@ -3,4 +3,5 @@
 */__pycache__/*
 /venv/*
 *.wav
-*.avi
+*.
+*.vscode/*
